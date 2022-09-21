@@ -56,7 +56,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       border: InputBorder.none,
                       hintText: "Height",
                       hintStyle: TextStyle(
-                          fontSize: 42,
+                          fontSize: 30,
                           fontWeight: FontWeight.w300,
                           color: Colors.white.withOpacity(.8)),
                     ),
@@ -76,7 +76,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       border: InputBorder.none,
                       hintText: "Weight",
                       hintStyle: TextStyle(
-                          fontSize: 42,
+                          fontSize: 30,
                           fontWeight: FontWeight.w300,
                           color: Colors.white.withOpacity(.8)),
                     ),
